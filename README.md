@@ -48,7 +48,7 @@ I'm an Embedded Software Engineer with 4+ years of experience building firmware 
 
 ## 💼 Experience
 
-**Embedded Software Engineer** — Avansi Solutions *(Client: William Blair)* · Jan 2024 – Present
+**Embedded Software Engineer** — Avansi Solutions *(Client: William Blair)* · Jan 2026 – Present
 > STM32F4 · FreeRTOS · TI-RTOS · Yocto · Buildroot · Modbus · CAN · GitLab CI/CD
 
 **Embedded Software Engineer** — Play for Fun LLC *(Client: Roller Software)* · Jan 2024 – Dec 2025
